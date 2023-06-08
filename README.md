@@ -8,5 +8,8 @@ and display the owner rights. but not a larger work made with this code.
 Original Javascript Library:
 https://github.com/szimek/signature_pad
 
+Forum post where this idea came from :
+https://forum.xojo.com/t/websdkuicontrol-and-webcanvas-refresh/75620/1
+
 Demo example :
 ![esignature_demo.gif](/esignature_demo.gif)

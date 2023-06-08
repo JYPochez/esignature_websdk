@@ -1,6 +1,7 @@
 # esignature_websdk
 this is a Xojo WebSDK example based on szimek signature_pad javascript library, 
 to implement a web component to allow the user to sign a document.
+Made with Xojo 2023r11, using API 2
 
 Mozilla Licence, you must disclose the source code of this original repository
 and display the owner rights.
